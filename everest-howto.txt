@@ -1,0 +1,4 @@
+./bootstrap
+./configure --enable-alt --prefix=/usr
+make
+sudo make install
